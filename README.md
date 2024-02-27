@@ -5,9 +5,9 @@ We innovated to filter out the records that appear at some level of frequency wi
 # Introduction to each file
 - Descriptive_Plots_aft_FP.ipynb --> Codes for producing descriptive plots for variables.
 - Discriminative Analysis.ipynb --> Codes for conducting Discriminative Analysis on variables.
-- Frequent_Pattern_Mining.ipynb --> Codes for conducting Frequent Pattern Mining on the raw data.
+- Frequent_Pattern_Mining.ipynb --> Codes for a general processing and conducting Frequent Pattern Mining on the raw data.
 - ISSS621_DSB_AY2022_23Jan_G2_Group4.pdf --> Report for the project.
 - Predictive Analysis.ipynb --> Codes for building a Decision Tree prediction model.
 - data.rar --> Zipped raw training and test datasets.
-- test_data.csv --> Test dataset after cleaning.
-- 
+- test_data.csv --> Test dataset after  data cleaning.
+- clean_aft_fp.csv --> Training dataset after data cleaning.
