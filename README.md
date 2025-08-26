@@ -1,5 +1,5 @@
 ## Description
-This collaborative project, undertaken as part of a post graduation course _Data Science in Business_, addresses the critical issues of hospital bed occupancy. The object is to develop predictive model that forcast bed occupancy rates, enabling hospital management systems to proactively allocate medical resources and mitigate challenges associated with bed shortages.
+This collaborative project, undertaken as part of a post graduation course _Data Science in Business_, addresses the critical issues of hospital bed occupancy. The object is to develop predictive model that forecast bed occupancy rates, enabling hospital management systems to optimize allocation of medical resources and mitigate challenges associated with bed shortages.
 
 Our team identified the bed occupancy as a longstanding problem in healthcare facilities, and sought leverage data science methodologies to provide actionable insights. To achieve this, we utilized a combination of data processing techniques and and machine learning algorithms to predict patient stay lengths. By doing so, we aim to empower hospital stuff with tools to optimize bed scheduling and enhance bed resource allocation efficiency. 
 ## Introduction to each file
